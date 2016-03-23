@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include "linear_sequence_assoc.h"
 
-#define black 0
-#define red 1
 #define general_node 0
 #define before_first_node 1
 #define past_rear_node 2
